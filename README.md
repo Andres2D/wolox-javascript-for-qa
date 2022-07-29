@@ -1,5 +1,8 @@
-## Wolox Javascript for QA
+## Wolox Javascript for QA 🧪
 This is a collection of exercise of javascript to understand the core functionalities of the language.
 
-### Run a file
+### Run a file 🧑‍💻
 > $ node 'file-name.js'
+
+### install dependencies 📦️
+> $ npm install
